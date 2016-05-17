@@ -1,0 +1,8 @@
+[package]
+name = "octree"
+version = "0.1.0"
+authors = ["CloneRob <ropamen@gmail.com>"]
+
+[dependencies]
+cgmath = "0.8.0"
+collision = "0.6.1"
